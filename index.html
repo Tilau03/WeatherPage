@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="index.css" rel="stylesheet" type="text/css">
+    <title>WEATHER</title>
+</head>
+<body onload="onLoad()">
+    <h1>WEATHER TODAY</h1>
+    <div id="container"  class="container">
+        <div class="block">
+            <H2 id="location"></H2>
+            <div id="description"></div><br>
+            <div id="date"></div><br>
+        </div>
+        <div class="block">
+            <div class="information-container">
+                Temperature:
+                <div class="info" id="temperature"></div><br><br>
+            </div>
+            <div class="information-container">
+                Humidity:
+                <div class="info" id="humidity"></div><br><br>
+            </div>
+            <div class="information-container">
+                Pressure:
+                <div class="info" id="pressure"></div><br><br>
+            </div>
+            <div class="information-container">
+                Wind:
+                <div class="info" id="wind"></div><br><br>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+    <footer>
+        <section>
+          
+          <a href="https://www.linkedin.com/in/lautaro-ricagni-33a57b214/">-Linkedin-</a><br><br>
+          <a href="https://github.com/Tilau03">-Github-</a><br><br>
+          <a href="mailto:lautaroricagni@gmail.com">-Contact-</a>
+        </section><br><br><br>
+        <p>Copyright2023</p>
+    </footer>
+    <span id="loader" class="loader"></span>
+
+</body>
+</html>
