@@ -6,10 +6,10 @@ Weather page that uses a geolocation API to capture the climate of the site wher
 
 **Lautaro Ricagni**
 
-*[LinkedIn](https://www.linkedin.com/in/lautaro-ricagni-33a57b214/)
+[LinkedIn](https://www.linkedin.com/in/lautaro-ricagni-33a57b214/)
 
 ## Page on direct ❗
--[ENLACEGITPAGES] (ENLACEGITHUBPAGES)
+--[ENLACEGITPAGES] (ENLACEGITHUBPAGES)
 
-## My Contact
-*if you want to contact me this is my Gmail "lautaroricagni@gmail.com" 🤓
+## My Contact ❗
+if you want to contact me this is my Gmail "lautaroricagni@gmail.com" 🤓
