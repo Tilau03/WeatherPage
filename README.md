@@ -9,7 +9,7 @@ Weather page that uses a geolocation API to capture the climate of the site wher
 [LinkedIn](https://www.linkedin.com/in/lautaro-ricagni-33a57b214/)
 
 ## Page on direct ❗
---[ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+[https://tilau03.github.io/WeatherPage/](https://tilau03.github.io/WeatherPage/)
 
 ## My Contact ❗
 if you want to contact me this is my Gmail "lautaroricagni@gmail.com" 🤓
